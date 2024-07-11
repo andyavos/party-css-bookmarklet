@@ -20,4 +20,17 @@ It's not perfect. It could be faster, the X skew could be larger. If you want to
 
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
+## Party bookmarklet
+
+- Copy the bookmarklet code
+- In your web browser, create a new bookmark.
+- In the URL field of the bookmark, replace the existing URL with the code you copied, starting with javascript:(function(){}());.
+- Save the bookmark.
+
+Add the 🦜 class to any HTML element you want to "party-parrot-ify"
+
 # Party or die!
+
+
+
+
